@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on AI or ML project
-- 📫 How to reach me www.linkedin.com/in/pushpendra-kataria-477a53213
+- 📫 How to reach me www.linkedin.com/in/pushpendra-kataria-07072003jjn
 - 😄 Pronouns: he/him
 
 <!---
